@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "mlopsproject"
 version = "0.1.0"
 description = "This is a complete Data Science/MLOps project."
 authors = ["Mariana Rosa Dias Santos"]
